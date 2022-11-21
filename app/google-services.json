@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "216664816690",
+    "project_id": "dummy-ea8bb",
+    "storage_bucket": "dummy-ea8bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216664816690:android:06e40dc57cf3ce3291d02b",
+        "android_client_info": {
+          "package_name": "com.shevelev.wizard_camera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216664816690-l8kr4vl2qk6he3ag8p2ifmdpe1njpmpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFKzK7w0SJvEoKCxYyDOXCQTn4LLh-tqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216664816690-l8kr4vl2qk6he3ag8p2ifmdpe1njpmpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216664816690:android:31242f146720bd7291d02b",
+        "android_client_info": {
+          "package_name": "dev.epegasus.firebase_ab_testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216664816690-l8kr4vl2qk6he3ag8p2ifmdpe1njpmpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFKzK7w0SJvEoKCxYyDOXCQTn4LLh-tqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216664816690-l8kr4vl2qk6he3ag8p2ifmdpe1njpmpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
